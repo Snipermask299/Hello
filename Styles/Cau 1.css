@@ -1,0 +1,33 @@
+*{margin: auto;}
+.Khung{
+	width: 900px;
+	height: 180px;
+	border: 1px solid #000000;
+	font-family: Arial;
+}
+.Modau h3{
+	color: #FF0004;
+	padding-left: 250px;
+	
+}
+.ND ul li a{
+	text-decoration: none;
+	color: #0000EE;
+}
+.ND ul {
+	padding-left: 50px;
+}
+.ND {
+	list-style-type: circle;
+	color: #0000EE;
+}
+.LH{
+	color: #FF0004;
+	text-decoration: none;
+}
+.Thongtin{
+	text-decoration: none;
+	color: #CA05F4;
+	font-style: italic;
+}
+

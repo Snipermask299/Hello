@@ -1,0 +1,80 @@
+*{margin: auto;}
+.Trang{
+	width: 900px;
+	height: 370px;
+	background: #FFFFFF;
+	border-radius: 10px;
+	transform: translate(0px, -720px);
+}
+.Trangchu{
+	width: 960px;
+	height: 305px;
+	background: white;
+	transform: translate(0px, -400px);
+}
+.Trang nav a{
+	color: black;
+	text-decoration: none;
+}
+.Trang nav{
+	padding-top: 7px;
+}
+.Trang p{
+	padding-left: 9px;
+	padding-top: 7px;
+	color: black;
+	text-decoration: none;
+}
+.Xanh{
+	width: 960px;
+	height: 430px;
+	background: #006765;
+}
+.Xanh nav a{
+	text-decoration: none;
+	color: white;
+	padding: 15px;
+}
+.Xanh nav{
+	padding-top: 400px;
+	padding-left: 17px;
+}
+.Xam {
+	transform: translate(0px, -1044px);
+	background: #CCCCCC;
+	width: 900px;
+	height: 171px;
+}
+.Tintuc{
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+}
+.Duocdang{
+	text-decoration: none;
+	color: #000000;
+	font-style: italic;
+}
+.Lichsu2{
+	text-decoration: none;
+	color: #000000;
+	padding-top: 100px;
+
+}
+.Anh{
+	float:left;
+	padding-top: 10px;
+}
+.Cuoi {
+	padding-top: 210px;
+	padding-left: 30px;
+}
+.Cuoi  a{
+	text-decoration: none;
+}
+.PhanCuoi{
+	color: #0313ED;
+}
+
+
+
